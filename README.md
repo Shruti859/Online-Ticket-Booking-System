@@ -24,4 +24,4 @@ Customers
 3. Change profile
 4. Booking history
 5. Delete account
-0. Logout# sweet-sea-507
+0. Logout#
